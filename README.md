@@ -1,4 +1,4 @@
-##Mini Proyek - Coding untuk Kakak Tingkat
+# Mini Proyek - Coding untuk Kakak Tingkat
 
 ## 👤Identitas Mahasiswa
 - Nama : Elit Siti Nurbayah Maulidya
