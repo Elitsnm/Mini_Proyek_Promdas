@@ -6,7 +6,7 @@
 - Kelas : 2A PSTI
 
 ## 🎓Identitas Kakak Tingkat
-- Nama : Fairuz Zulia
+- Nama : Fairuz Zulia Muntaha
 - Angkatan : 2022
 - Program Studi : Pendidikan Sistem dan Teknologi Informasi
 
@@ -38,7 +38,7 @@
 
 > Loop (perulangan):
 - while(1) digunakan sebagai loop utama agar menu terus ditampilkan sampai pengguna memilih keluar.
-- for loop digunakan untuk:
+> for loop digunakan untuk:
 - Menampilkan seluruh buku (for (i = 0; i < jumlah; i++))
 - Melakukan pencarian judul.
 - Menggeser data saat penghapusan.
