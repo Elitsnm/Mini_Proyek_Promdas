@@ -52,3 +52,4 @@
 - Array 1 dimensi untuk integer (tahun terbit)
 
 ## Link Video Demo
+- https://youtu.be/1NuRP5dziA4?si=pktgfaHiXUuIJzP7
